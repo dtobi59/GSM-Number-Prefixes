@@ -1,4 +1,4 @@
-<?php namespace ebukaubah\GsmNumberPrefixes;
+<?php namespace devtobi\GsmNumberPrefixes;
 
 /**
 *  Index class
