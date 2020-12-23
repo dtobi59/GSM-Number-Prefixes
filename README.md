@@ -15,14 +15,14 @@ Requirements
 Installation
 ============
 
-composer require ebukaubah/gsm-number-prefixes:dev-master
+composer require devtobi/gsm-number-prefixes:dev-master
 
 Usage
 =====
 
 Get network operator of a phone number
 
-use ebukaubah\GsmNumberPrefixes\GsmNumberPrefix;
+use devtobi\GsmNumberPrefixes\GsmNumberPrefix;
 
 $gsmNetworkIdentifier = new GsmNumberPrefix();
 
